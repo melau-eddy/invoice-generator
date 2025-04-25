@@ -7,7 +7,7 @@
 
 **Installation**
 - To clone it on your local machine
->git clone https://github.com/Sushmi-pal/laravelnew.git
+>git clone https://github.com/melau-eddy/invoice-generator.git
 
 - Switch to the repo folder
 >cd laravelnew
