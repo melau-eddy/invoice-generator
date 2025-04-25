@@ -1,0 +1,33 @@
+nav li {
+    display: block;
+    float: right;
+
+}
+
+
+.navbar {
+    background-color: white;
+    width: 100%;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: 600;
+    float: right;
+    text-align: right;
+}
+
+a:hover {
+    font-size: 30px;
+}
+
+a {
+    color: black;
+}
+
+.active {
+    font-size: 25px !important;
+    color: black !important;
+}
+
+
